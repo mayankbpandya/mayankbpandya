@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mayankbpandya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react-js
-- 💞️ I’m looking to collaborate on any react-js projects
-- 📫 How to reach me mayankbpandya@gmail.com
+- 💞️ I’m looking to collaborate on any reactjs, python, django projects
+- 📫 How to reach me mayankbpandya@hotmail.com
 
 <!---
 mayankbpandya/mayankbpandya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
