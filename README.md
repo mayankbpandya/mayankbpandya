@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayankbpandya
 - 👀 I’m interested in coding
-- 💞️ I’m looking to collaborate on any reactjs, python, django projects
+- 💞️ I’m looking to collaborate on any PHP, WordPress, NextJS, Reactjs, python, django projects
 - 📫 How to reach me mayankbpandya@hotmail.com
 
 <!---
