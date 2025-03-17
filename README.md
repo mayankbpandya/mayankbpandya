@@ -1,6 +1,6 @@
 # Mayank Pandya
 
-## 👨‍💻 Full-Stack Web Developer | WordPress | React | Next.js | Javascript
+## 👨‍💻 Full-Stack Web Developer | PHP | Laravel | WordPress | React | Next.js | Javascript
 ![1733940677653](https://github.com/user-attachments/assets/29ecaaa8-9f7a-4970-8f90-a13b68e7934c)
 
 
