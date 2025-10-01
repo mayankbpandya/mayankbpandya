@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate full-stack developer with extensive experience in web technologies. My expertise spans across PHP, WordPress, React, Next.js, Python, and Django. I enjoy building scalable applications and contributing to open-source projects that make a difference.
+I'm a passionate full-stack developer with extensive experience in web technologies. My expertise spans across PHP, WordPress, Node.js, React.js and Next.js. I enjoy building scalable applications and contributing to open-source projects that make a difference.
 
 With a keen eye for detail and a commitment to writing clean, maintainable code, I strive to create solutions that not only meet requirements but exceed expectations.
 
@@ -42,7 +42,6 @@ I'm always open to collaborating on interesting projects, particularly those inv
 
 - PHP/WordPress development
 - React/Next.js applications
-- Python/Django solutions
 - Open-source contributions
 - Innovative web applications
 
