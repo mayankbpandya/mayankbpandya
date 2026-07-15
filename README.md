@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="[https://linkedin.com/in/mayankbpandya](https://www.linkedin.com/in/mayank-pandya/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mayank-pandya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
@@ -53,7 +53,7 @@ If you have a project that aligns with my skills and interests, I'd love to hear
 I'm always interested in new opportunities and collaborations. Feel free to reach out to me:
 
 - ✉️ **Email**: [mayankbpandya@hotmail.com](mailto:mayankbpandya@hotmail.com)
-- 💼 **LinkedIn**: [[linkedin.com/in/mayankbpandya](https://linkedin.com/in/mayankbpandya)](https://www.linkedin.com/in/mayank-pandya/)
+- 💼 **LinkedIn**: [linkedin.com/in/mayank-pandya](https://www.linkedin.com/in/mayank-pandya/)
 
 ---
 
